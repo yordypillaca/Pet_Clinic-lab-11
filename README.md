@@ -34,3 +34,5 @@ mvn test -Dspring.profiles.active=h2
 3. mvn clean package → Limpia, compila, prueba y empaqueta.
 4. mvn clean install → Limpia, compila, prueba, empaqueta e instala localmente.
 5. mvn clean deploy → Hace todo lo anterior y sube el artefacto a un repositorio remoto
+
+Gracias.
